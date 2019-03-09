@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/algebracket-public/precache-manifest.65567e4301fb5fdb983cd6ba00b49a2f.js"
+  "/algebracket-public/precache-manifest.6ae4bfe1fa436b001278394aa7514094.js"
 );
 
 workbox.clientsClaim();

@@ -1,14 +1,14 @@
 {
   "main.css": "/algebracket-public/static/css/main.36e870a8.chunk.css",
-  "main.js": "/algebracket-public/static/js/main.f63d16ad.chunk.js",
-  "main.js.map": "/algebracket-public/static/js/main.f63d16ad.chunk.js.map",
-  "static/js/1.7138ec2c.chunk.js": "/algebracket-public/static/js/1.7138ec2c.chunk.js",
-  "static/js/1.7138ec2c.chunk.js.map": "/algebracket-public/static/js/1.7138ec2c.chunk.js.map",
+  "main.js": "/algebracket-public/static/js/main.e5068fc9.chunk.js",
+  "main.js.map": "/algebracket-public/static/js/main.e5068fc9.chunk.js.map",
+  "static/js/1.2f051384.chunk.js": "/algebracket-public/static/js/1.2f051384.chunk.js",
+  "static/js/1.2f051384.chunk.js.map": "/algebracket-public/static/js/1.2f051384.chunk.js.map",
   "runtime~main.js": "/algebracket-public/static/js/runtime~main.f520cb6d.js",
   "runtime~main.js.map": "/algebracket-public/static/js/runtime~main.f520cb6d.js.map",
   "static/media/index.css": "/algebracket-public/static/media/bracket.9ddd46d3.svg",
   "static/css/main.36e870a8.chunk.css.map": "/algebracket-public/static/css/main.36e870a8.chunk.css.map",
   "index.html": "/algebracket-public/index.html",
-  "precache-manifest.65567e4301fb5fdb983cd6ba00b49a2f.js": "/algebracket-public/precache-manifest.65567e4301fb5fdb983cd6ba00b49a2f.js",
+  "precache-manifest.6ae4bfe1fa436b001278394aa7514094.js": "/algebracket-public/precache-manifest.6ae4bfe1fa436b001278394aa7514094.js",
   "service-worker.js": "/algebracket-public/service-worker.js"
 }
